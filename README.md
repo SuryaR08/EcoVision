@@ -44,14 +44,14 @@ To use EcoVision, follow these steps:
 Use Google colab cloud based training.
 1. First your google drive using this command `from google.colab import drive
 drive.mount('/content/drive')`
-2. Download our dataset given and upload it in your google drive.
+2. Download our dataset given from the following drive link and upload it in your google drive.
 3. Extract the dataset using the command `import zipfile
 with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
     zip_ref.extractall(extract_path)`
 5. Run this `%cd yolov5
 %pip install -qr requirements.txt`
 4. Then start training using this command `!python train.py --img 416 --batch 16 --epochs 150 --data {dataset.location}/data.yaml --weights yolov5s.pt --cache` specify the path of the data correctly. You can change the batch and epoch as of your need and accuracy.
-5. Download the trained weights 'best.pt' from `runs/train/exp` to your device.
+5. Download the trained weights 'best.pt' from `runs/train/exp` to your device. You can use use our already pre trained weights that provided here.
 
 
 # Deploy on your system
