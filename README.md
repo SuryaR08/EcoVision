@@ -51,7 +51,7 @@ with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
 5. Run this `%cd yolov5
 %pip install -qr requirements.txt`
 4. Then start training using this command `!python train.py --img 416 --batch 16 --epochs 150 --data {dataset.location}/data.yaml --weights yolov5s.pt --cache` specify the path of the data correctly. You can change the batch and epoch as of your need and accuracy.
-5. Download the trained weights 'best.pt' from `runs/train/exp` to your device. You can use use our already pre trained weights that provided here.
+5. Download the trained weights 'best.pt' from `runs/train/exp` to your device. You can use use our already pre trained weights from the following drive link.
 
 
 # Deploy on your system
