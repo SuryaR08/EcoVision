@@ -22,7 +22,6 @@ The goal of EcoVision is to provide an intelligent solution for waste management
 * Deep Learning Framework: A popular deep learning framework such as TensorFlow or PyTorch is utilized for training the object detection model.
 * Hardware Setup: The system requires a camera for capturing video footage and a microcontroller or single-board computer for running the code and controlling the trash can.
 
-
 # Requirements
 
 *  Python >= 3.8
@@ -38,6 +37,7 @@ To use EcoVision, follow these steps:
 5. Apply the object detection model to the captured frames to detect and classify the trash objects.
 6. Implement the segregation and sorting mechanism in the trash can to direct the classified trash objects into separate compartments.
 7. Provide appropriate visual feedback to the user to indicate the category assigned to the detected trash object.
+
 
 
 # Train your model
