@@ -76,3 +76,6 @@ If you wish to contribute to EcoVision, please follow these guidelines:
 
 # Acknowledgments
 We would like to express our gratitude to the open-source community and the developers behind YOLO, OpenCV, and the deep learning
+
+# Presentation URL 
+https://tome.app/surya-deck/ecovision-a-smarter-way-to-dispose-waste-clemrgckd02ewckrycql9o1je
