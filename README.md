@@ -2,7 +2,7 @@
 An AI based Trash can
 
 # Click below image to see presentation 👇
-[[!EcoVision](https://github.com/SuryaR08/EcoVision/blob/main/robot.png)](https://tome.app/surya-deck/ecovision-a-smarter-way-to-dispose-waste-clemrgckd02ewckrycql9o1je)
+[[!robot](https://github.com/SuryaR08/EcoVision/blob/main/robot.png)](https://tome.app/surya-deck/ecovision-a-smarter-way-to-dispose-waste-clemrgckd02ewckrycql9o1je)
 
 # EcoVision: Trash Can Object Detection with YOLO
 
