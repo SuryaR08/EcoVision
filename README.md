@@ -1,5 +1,9 @@
 # EcoVision
 An AI based Trash can
+
+# Click below image to see presentation 👇
+[[!EcoVision](https://github.com/SuryaR08/EcoVision/blob/main/robot.png)](https://tome.app/surya-deck/ecovision-a-smarter-way-to-dispose-waste-clemrgckd02ewckrycql9o1je)
+
 # EcoVision: Trash Can Object Detection with YOLO
 
 EcoVision is a computer vision project that focuses on promoting environmental sustainability by automating the process of trash classification. Using the YOLO (You Only Look Once) object detection algorithm, EcoVision enables a smart trash can to classify different types of waste accurately.
@@ -77,5 +81,4 @@ If you wish to contribute to EcoVision, please follow these guidelines:
 # Acknowledgments
 We would like to express our gratitude to the open-source community and the developers behind YOLO, OpenCV, and the deep learning
 
-# Presentation URL 
-https://tome.app/surya-deck/ecovision-a-smarter-way-to-dispose-waste-clemrgckd02ewckrycql9o1je
+
